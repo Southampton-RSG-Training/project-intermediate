@@ -1,8 +1,7 @@
 ---
 title: "Survey"
-slug: "lesson-survey"
-teaching: 0
-exercises: 0
+slug: Intermediate Software Management-survey
+layout: page
 ---
 
 {% if site.startdate == "TBC" %}
