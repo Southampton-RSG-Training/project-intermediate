@@ -1,6 +1,6 @@
 ---
 title: "Survey"
-slug: Intermediate Software Management-survey
+slug: project-intermed-survey
 layout: page
 ---
 
