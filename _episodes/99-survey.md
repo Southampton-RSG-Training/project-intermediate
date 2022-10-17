@@ -1,6 +1,6 @@
 ---
 title: "Survey"
-slug: project-intermed-survey
+slug: project-intermediate-survey
 layout: page
 ---
 
